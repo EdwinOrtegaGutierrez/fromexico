@@ -1,0 +1,1 @@
+document.getElementById("agregarProducto").style.display = "none";
