@@ -1,0 +1,1 @@
+FromMexico is an open-source web app that lets users discover the beauty of Mexico through photos and descriptions of tourist destinations and hidden gems. The app has a user-friendly interface and advanced search and filtering options to help users plan their next trip to Mexico
